@@ -4,18 +4,22 @@
       "identifier": "pack_1",
       "name": "Love Stickers",
       "publisher": "Devroma",
-      "tray_image_file": "https://cdn.jsdelivr.net/gh/devroma/stickers-data@main/pack_1/0.png",
+      "tray_image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/pack_1/0.png",
       "stickers": [
         {
-          "image_file": "https://cdn.jsdelivr.net/gh/devroma/stickers-data@main/pack_1/1.webp",
+          "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/pack_1/1.webp",
           "emojis": ["❤️"]
         },
         {
-          "image_file": "https://cdn.jsdelivr.net/gh/devroma/stickers-data@main/pack_1/2.webp",
+          "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/pack_1/2.webp",
           "emojis": ["😍"]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/pack_1/3.webp",
+          "emojis": ["❤️"]
                   },
         {
-          "image_file": "https://cdn.jsdelivr.net/gh/devroma/stickers-data@main/pack_1/3.webp",
+          "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/pack_1/3.webp",
           "emojis": ["❤️"]
         }
       ]
