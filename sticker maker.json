@@ -1,0 +1,547 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [{
+    "identifier": "p1",
+    "name": "Anime",
+    "publisher": "Devroma",
+    "tray_image_file": "https://drive.google.com/uc?export=download&id=1k88DvN4r1dz9LD8ltGyu9Myi24d5CkCT",
+    "image_data_version": "1",
+    "avoid_cache": false,
+    "animated_sticker_pack": false,
+    "stickers": [{
+      "image_file": "https://drive.google.com/uc?export=download&id=144CW71vNBVPHx2y2QoDr9rmEs-YoOTiF",
+      "emojis": ["😎"]
+    },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1c-ik18zEgNOqPT0BQfCs4iKyTT6xgrFx",
+        "emojis": ["✨"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1Yty_Zc0JOTjGhpejXOdPdixlN-FdK7n0",
+        "emojis": ["✅"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1tQ4mTdqEhuwrxYKrBjuCto03BG1cmQxG",
+        "emojis": ["👍"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1LxAc9hoSngXyiwcZWAaM6tm7tqXgNTeV",
+        "emojis": ["💖"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1kAPY1AEx5Eh36tlvmE_J8PX_G15hbYpJ",
+        "emojis": ["😎"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1BTAshSB6rfVIv8AK662ob0eKhtuRxWp6",
+        "emojis": ["✨"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1yTIw9hwzKwc8pvPWYbdbOAzz4-mr0iex",
+        "emojis": ["✅"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1FCkASGGPByxWnaG8ud3CHjlMiQ9IGEXr",
+        "emojis": ["👍"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1BFL5GZH8J8ZlG9ZkH26PCktFTJaDVaaZ",
+        "emojis": ["💖"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1IntedJxRyOwBOoQi9XSk0ppIgRt0I6hQ",
+        "emojis": ["👍"]
+      },
+      {
+        "image_file": "https://drive.google.com/uc?export=download&id=1VAfybrOtwLhJiCpgM_tMeLw_Rl835ccn",
+        "emojis": ["💖"]
+      }]
+  },
+
+    {
+      "identifier": "p2",
+      "name": "cloud",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1SZ2GptUK6jYYLbG_mS24MEd1-cQXSZqg",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=10y9OjDgftRWWTTPGYtODvKhpReypjSQT",
+        "emojis": ["❤"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1KdpMjRhHN8Yf7XhdUjSpOkTNZqVnnZim",
+          "emojis": ["✨"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1-0vDjRjK3I0V3tLqWH73fY2gHoPYA8ci",
+          "emojis": ["✅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1Z1A0zytZDi4LX1plC8LJr_12vEJD2wJg",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=13lkTTf2EEZ3Eo0vzNkD-zN7TL5hwnoXg",
+          "emojis": ["👍"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1rRK92CEuS8JMbfkCC2f22yHPgHnUUKnV",
+          "emojis": ["💖"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1FBlWcG6ra-OLnH4FiKSq0witVaLpjRDM",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1gMlM9PUyKLTjMIJKuZM8rpNWCKO4tfVt",
+          "emojis": ["🎉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1fqlMBxxhViFGPUxsWwMbQT2w4n-wmhG3",
+          "emojis": ["📍"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1G1W1AD6ZWPTVO-BixI1DQaPp7SGi-Til",
+          "emojis": ["🎊"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=15z7SWwUrJY3w87JucOJyiRdOOBAZUSUf",
+          "emojis": ["🎊"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=17hDbtfNay3JNtGubBKSS6BZpWCWGSWCc",
+          "emojis": ["🎊"]
+        }]
+    },
+
+    {
+      "identifier": "p3",
+      "name": "Flower",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1gllOQljRHO_ct_JxXDNSRKW8nmeG1rLP",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=12LoGNhbrirWiHcqtTF4cVKEthAfcjn-i",
+        "emojis": ["⭐"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1qLxGOafFK3-nzvmlWfuek1ypjyyOO8lT",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1VSnjj7jqmg_yQVbReHA2wXTCawMG_CUK",
+          "emojis": ["🎉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1lR6a7EHzBQC3agS5HS7qDgmc2EWIYoxk",
+          "emojis": ["📍"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1Ys0z0pt_bNkOq4xu2iMNsOM1b-370_Cp",
+          "emojis": ["🎊"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1uj2KR2Wtt9q2Vbg_nFiXPbvoJrczzbz8",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1RE2VxGd_7RgHskmRAU5reuKLORK-7fF_",
+          "emojis": ["🎉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1PLxwU0MHyWmg8e2hIVgWddhAWr7d4k0f",
+          "emojis": ["📍"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=18VW5LMOoTYdd28teCMMUxNq8nbO9VzR9",
+          "emojis": ["🎊"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=18KzfmKrWaDWE3blCZ5h4X5S55QogKtLO",
+          "emojis": ["😂"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=16HEGh6VkgtyyQOUunymzdei1sBvRvBaL",
+          "emojis": ["🎊"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1GFBnVkwWi5NMP020EPyXY3mAuMf2ypQ4",
+          "emojis": ["😂"]
+        }]
+    },
+
+    {
+      "identifier": "p4",
+      "name": "Couple",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1EwvhEEH5A230MA1r0_YPdX4cht12rweQ",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=1H-FeDF2kHNfu_9Gj8p_RYiXcFxxRZzkT",
+        "emojis": ["🔥"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=14mOGTMTfhqHMdDfrXmJjt7a3F7SKikGz",
+          "emojis": ["💯"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1xcpxXks0wULEkgH6ML1RWNl5auhtjlAU",
+          "emojis": ["🚀"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1XxTtKKTTTmCSWkJbP3-oKFxrduayPFtc",
+          "emojis": ["⚡"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1kBe5a-0zOgosZ-tRMZDi7RbiBQ8eAm_8",
+          "emojis": ["🎯"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1BEctPQMZqylkJFvhQ6hRAa2hFnQFWJGp",
+          "emojis": ["💯"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=11Woslz4K27EKp_ReolYA7z_EnIE7xcyK",
+          "emojis": ["🚀"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1uZoyUPCpO2UYmPuo1m_vmtdS2dvRiMNe",
+          "emojis": ["⚡"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1XuJGBtclntt4CLneilYTepHFTY3U10u7",
+          "emojis": ["🎯"]
+        }]
+    },
+
+    {
+      "identifier": "p5",
+      "name": "Bouki fleur",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1S0fJW24xN54oODHzykL3XCcENZJ3pyzF",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=1odZYFO-BMeG5Zvc_6Fxs4mnCr1XHMdEZ",
+        "emojis": ["🎮"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=18HTh7aYM6vEaiKPDDT5AYObqeuNnmK4A",
+          "emojis": ["😜"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1B3FWsKfdfCXh3PjvFJJx_CsnDqgxbx2G",
+          "emojis": ["😇"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1s6Bh_9FuzYLQFhEzSSP-BUyZwf50T3Ku",
+          "emojis": ["🤩"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1dV8et-khYdvGpIupkZqS_dMRM04F7Iqr",
+          "emojis": ["🥳"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1oCHUoF-QjZAP82EvFHsUcokoG9Y6IUJ_",
+          "emojis": ["😜"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1xHf-yf-IYXBgHphqAeXCvAvKzGXHd4hl",
+          "emojis": ["😇"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1USlka-o0bNyFnIQQMDHuMX9TqBVJhqLE",
+          "emojis": ["🤩"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1_769-IAKa1q30DqqWYO7K_kx9VtmdfvV",
+          "emojis": ["🥳"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1jguvPD40fQrwtRtX4LR7t69ODoUIMqBf",
+          "emojis": ["😜"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1OZasSvyWtw-SwJz2reSe6NH5k_KT5nbS",
+          "emojis": ["😇"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1QmaR0W99GhfhmKKsdLxNI6hi10SydSkh",
+          "emojis": ["🤩"]
+        }]
+    },
+
+    {
+      "identifier": "p6",
+      "name": "I Love",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1ksEpS2jCMT63k-LW4fjPvtvjLM1u1-i6",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=1CIsdddtX9KGXCx3ERC-w7CUssEdC1IDR",
+        "emojis": ["😎"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1lY0sR7ZNony6N--GtBtzVdahUQ-0QOMi",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1NXRzltKtfazS-BqtMjg1q27I-biVg4Pg",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=17gqDi7WlEK4ScjLZUsYQ7F1GAXAQo0Tp",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1X9p1w_rblJkfzPNSrOnfF1yJ2Z5k4sw9",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1DgH_-CE1A9x9yQDWb-QI7Fj6ZrOAAAKR",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1QPy0s39ubxdMpRqAuK1rPAX1E5WEcPrr",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1NRokiMyoo0ThflSxJxiHK7DUgzz8PW6Y",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1VKDe2urb2DEnLSBpNUOrJkta6GwSOy8e",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1QPy0s39ubxdMpRqAuK1rPAX1E5WEcPrr",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1Ma2II_Q2_vBEU3D4XQfag5ZRfXJfPx_J",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1iG4Kp6CIQxe4r1uIBxnJllFUzTV4J0gM",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=120MAo8f1Ca8prwVyfjngu7x2702qSkxq",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1j6nzOzLQc6VPSdLIhmHi2lNCT8ptZKu2",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1hXXCAXPxjiuIuEb_ObXWg5vaYPCEI4pO",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=143IMyf0Y-8nRfB6oNHMtpIa4xZdrv0g8",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1fQsJNNFjU1tCwC7x7QPLneMr3Fkje7hI",
+          "emojis": ["😄"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1ZSmKcSVIq9wjj_P-8jcx29xVPjPZ7FQx",
+          "emojis": ["😄"]
+        }]
+    },
+
+    {
+      "identifier": "p7",
+      "name": "Animated 1",
+      "publisher": "EL Mars",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1a1-rSTYree7SYilTMitGhZqGw_-DFUYL",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": true,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=1o-EqYkZWLqbQ8_bDHLOSPRoM3CmkJOLM",
+        "emojis": ["😎"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1Afv_7R4D0fEXtL-dIytyIDTNxEVwGyOt",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=13BBPBXd6Ib6VKlxkz-8u3YYhTAHMOcxA",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=10loPHZAgRWcAN9G12o60bAI5UG9oEAN4",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1JaWSSQ7Z6jJRB2vPxhyo0hVj076kAtsB",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1Ie1RlWtDj8E43Z9ykOAOfWhRl4gbXPg7",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1jTb3HAfYt568YuYJhOtkTrX1dW-p1KGj",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1VdhqWMXjfv3g2N75UFFA3rQ3C3uIVS4Y",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1vAiTXg021PlVY8yreEWrcggrsJngGib6",
+          "emojis": ["😄"]
+        }]
+    },
+
+    {
+      "identifier": "P8",
+      "name": "d'amour",
+      "publisher": "Devroma",
+      "tray_image_file": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijg0G33_rMvrOZjQT1sqY7JjWwA2Lkho2gAW7tw3qlGU2-cI19kmhBFvwNNmIGzNElsJBBkGmafJ_ISco_qYJv_hxCn5EFvdpNYbKRPPTsWwIOHRn3dXPk3AF9mNPYSVPSEIRe0n2EXonDxLL2AWjsbMVDghUGMMixapR3-Z3KPYVj2yD4SCY98GzA91WS/s1600/0.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=1Ky5wpOigN3TMpfXeeWi4dssq02u1JDCz",
+        "emojis": ["😎"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1VREGw33XHb2LBk6QYCCzAPi0KIUYZckF",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1hWXWYG4jLyPtlxdmKYJRxycm7JnHgEz8",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1SRkZweZBxL35qGGuQ7Sb5LaTO3QG7-tO",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1kFIytJ1g3PzrSZWLcvjhZhSuWIJL0B34",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1QqmxXdjlaGhJfJyLow7hIen7gwxdAEP5",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1lZufyLBsjfiqCdAUo-ypUQk6cWuBLQDB",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1yllJfH85fu_I0_7kTreENWovU4MsmVMK",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1bACFLwK4nqhgmryoaKggXY5YaQjGAnwt",
+          "emojis": ["😄"]
+        }]
+    },
+
+    {
+      "identifier": "P9",
+      "name": "LOVE",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1lQpQ1mXEKEsfodUvJmDDYwM1kee3X9Wn",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=18voOHDSdWAU4lzZakWvmhHDK_kI5TpxO",
+        "emojis": ["😎"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1FLW0RFAbguqqkDnwiCBzLsEFY8aT7zQi",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1LlMquHbbvczx7-frtbBiZOIFwCyRt15U",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1w2d8D7SQzVpI2UTCgThSdxYAyvxhaF78",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1OCpQJTFDZ6Z3miWwffNL03rPFL5yhZId",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=12W_U0IcATJgjMqqktNmid6s1GEdo5_IW",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=174yKPT5o1hs_qwGYkBQbpBhE6UXrJqrh",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1hlUwnXF8_Wa3a5tQRyUqZIJKNdw4Q32h",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1BklV7y1RE7rmM-9tof6c7ALCklMkr-eK",
+          "emojis": ["😄"] 
+        }]
+    },
+
+    {
+      "identifier": "p10",
+      "name": "Animated 2",
+      "publisher": "Devroma",
+      "tray_image_file": "https://drive.google.com/uc?export=download&id=1mpvXRAD7v96Egm9oazstgxh8K0qTp6NQ",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": true,
+      "stickers": [{
+        "image_file": "https://drive.google.com/uc?export=download&id=154p_89Ja2U0gISi-yCIxyKW0bBxzeI78",
+        "emojis": ["😎"]
+      },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1aphe88OJNN9EzMBMzWjErYTWtezG4IfC",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1Zqli2XNMOKDOS48knhhlUth6Jz3ooNfm",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=19OvBt-J7V-GUkGSQbokQEyghfHq-Gi1A",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=17nuzsbjdUwz23SViBF6MjzZKJG8J2zV0",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1HgGDHoBYrYfCsTTjRnigJJgfJc-155kW",
+          "emojis": ["😉"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1dACi_L0CUmY4TDVM03NkFEkwQ-0efnyJ",
+          "emojis": ["😁"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1A_6dIN3z0OJDfi7vtq7xBln_GQ64KDus",
+          "emojis": ["😅"]
+        },
+        {
+          "image_file": "https://drive.google.com/uc?export=download&id=1TC6J-ZjrPxe6Fb2P_-ri9ax145DDh5fL",
+          "emojis": ["😄"]
+        }]
+    }]
+}
