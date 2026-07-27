@@ -423,6 +423,47 @@
     { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/22/11.webp", "emojis": ["❤️"] },
     { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/22/12.webp", "emojis": ["❤️"] }
       ]
+},
+{
+   "identifier": "23",
+  "name": "Pack 23",
+  "publisher": "Devroma",
+  "tray_image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/0.png",
+    "animated_sticker_pack": true,
+  "stickers": [
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/1.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/2.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/3.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/4.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/5.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/6.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/7.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/8.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/9.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/10.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/11.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/23/12.webp", "emojis": ["❤️"] }
+  ]
+},
+{
+  "identifier": "24",
+  "name": "Pack 24",
+  "publisher": "Devroma",
+  "tray_image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/0.png",
+  "stickers": [
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/1.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/2.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/3.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/4.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/5.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/6.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/7.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/8.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/9.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/10.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/11.webp", "emojis": ["❤️"] },
+    { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/Stickers-makar@main/24/12.webp", "emojis": ["❤️"] }
+      ]
     }
   ]
 }
