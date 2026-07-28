@@ -2,7 +2,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Pack 1",
+      "name": "Pack 9",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/1/0.png",
       "animated_sticker_pack": true,
@@ -21,7 +21,7 @@
     },
     {
       "identifier": "2",
-      "name": "Pack 2",
+      "name": "Pack 10",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/2/0.png",
       "animated_sticker_pack": false,
@@ -42,7 +42,7 @@
     },
     {
       "identifier": "3",
-      "name": "Pack 3",
+      "name": "Pack 11",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/3/0.png",
       "animated_sticker_pack": false,
@@ -60,7 +60,7 @@
     },
     {
       "identifier": "4",
-      "name": "Pack 4",
+      "name": "Pack 12",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/4/0.png",
       "animated_sticker_pack": true,
@@ -81,7 +81,7 @@
     },
     {
       "identifier": "5",
-      "name": "Pack 5",
+      "name": "Pack 13",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/5/0.png",
       "animated_sticker_pack": false,
@@ -102,7 +102,7 @@
     },
     {
       "identifier": "6",
-      "name": "Pack 6",
+      "name": "Pack 14",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/6/0.png",
       "animated_sticker_pack": false,
@@ -120,7 +120,7 @@
     },
     {
       "identifier": "7",
-      "name": "Pack 7",
+      "name": "Pack 15",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/7/0.png",
       "animated_sticker_pack": true,
@@ -141,7 +141,7 @@
     },
     {
       "identifier": "8",
-      "name": "Pack 8",
+      "name": "Pack 16",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/8/0.png",
       "animated_sticker_pack": false,
@@ -162,7 +162,7 @@
     },
     {
       "identifier": "9",
-      "name": "Pack 9",
+      "name": "Pack 17",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/9/0.png",
       "animated_sticker_pack": true,
@@ -180,7 +180,7 @@
     },
     {
       "identifier": "10",
-      "name": "Pack 10",
+      "name": "Pack 18",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/10/0.png",
       "animated_sticker_pack": false,
@@ -198,7 +198,7 @@
     },
     {
       "identifier": "11",
-      "name": "Pack 11",
+      "name": "Pack 19",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/11/1.png",
       "animated_sticker_pack": true,
@@ -216,7 +216,7 @@
     },
     {
       "identifier": "12",
-      "name": "Pack 12",
+      "name": "Pack 20",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/12/0.png",
       "animated_sticker_pack": false,
@@ -237,7 +237,7 @@
     },
     {
       "identifier": "13",
-      "name": "Pack 13",
+      "name": "Pack 21",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/13/0.png",
       "animated_sticker_pack": true,
@@ -258,7 +258,7 @@
     },
     {
       "identifier": "14",
-      "name": "Pack 14",
+      "name": "Pack 22",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/14/0.png",
       "animated_sticker_pack": false,
@@ -276,7 +276,7 @@
     },
     {
       "identifier": "15",
-      "name": "Pack 15",
+      "name": "Pack 23",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/15/0.png",
       "animated_sticker_pack": false,
@@ -297,7 +297,7 @@
     },
     {
       "identifier": "16",
-      "name": "Pack 16",
+      "name": "Pack 24",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/16/0.png",
       "animated_sticker_pack": true,
@@ -318,7 +318,7 @@
     },
     {
       "identifier": "17",
-      "name": "Pack 17",
+      "name": "Pack 25",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/17/0.png",
       "animated_sticker_pack": false,
@@ -336,7 +336,7 @@
     },
     {
       "identifier": "18",
-      "name": "Pack 18",
+      "name": "Pack 26",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/18/0.png",
       "animated_sticker_pack": false,
@@ -354,7 +354,7 @@
     },
     {
       "identifier": "19",
-      "name": "Pack 19",
+      "name": "Pack 27",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/19/0.png",
       "animated_sticker_pack": true,
@@ -375,7 +375,7 @@
     },
     {
       "identifier": "20",
-      "name": "Pack 20",
+      "name": "Pack 28",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/20/0.png",
       "animated_sticker_pack": false,
@@ -396,7 +396,7 @@
     },
     {
       "identifier": "21",
-      "name": "Pack 21",
+      "name": "Pack 29",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/21/0.png",
       "animated_sticker_pack": true,
@@ -417,7 +417,7 @@
     },
     {
       "identifier": "22",
-      "name": "Pack 22",
+      "name": "Pack 30",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/22/0.png",
       "animated_sticker_pack": true,
@@ -438,7 +438,7 @@
     },
     {
       "identifier": "23",
-      "name": "Pack 23",
+      "name": "Pack 31",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/23/0.png",
       "animated_sticker_pack": true,
@@ -459,7 +459,7 @@
     },
     {
       "identifier": "24",
-      "name": "Pack 24",
+      "name": "Pack 32",
       "publisher": "Devroma",
       "tray_image_file": "https://raw.githubusercontent.com/deeproma075-eng/Stickers-makar/main/24/0.png",
       "animated_sticker_pack": false,
